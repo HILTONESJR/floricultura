@@ -1,1 +1,41 @@
-
+{
+  "produtos": [
+    {
+      "id": "1",
+      "titulo": "BUQUE DE ROSAS 12UN",
+      "descricao": "Buque com 12 rosas vermelhas",
+      "valor": "109,99",
+      "imagem": "https://static.giulianaflores.com.br/images/product/26951gg.jpg?ims=405x405"
+    },
+    {
+      "id": "2",
+      "titulo": "BUQUE DE ROSAS 12UN",
+      "descricao": "Buque com 12 rosas vermelhas",
+      "valor": "109,99",
+      "imagem": "https://static.giulianaflores.com.br/images/product/26951gg.jpg?ims=405x405"
+    },
+    {
+      "id": "3",
+      "titulo": "BUQUE DE ROSAS 12UN",
+      "descricao": "Buque com 12 rosas vermelhas",
+      "valor": "109,99",
+      "imagem": "https://static.giulianaflores.com.br/images/product/26951gg.jpg?ims=405x405",
+      "quantidade": "10"
+    },
+    {
+      "imagem": "https://static.giulianaflores.com.br/images/product/26951gg.jpg?ims=405x405",
+      "titulo": "Flores",
+      "valor": "59,99",
+      "descricao": "Flores Muchas",
+      "quantidade": "10",
+      "id": "VmCVjnN"
+    },
+    {
+      "imagem": "https://static.giulianaflores.com.br/images/product/26951gg.jpg?ims=405x405",
+      "titulo": "Flores",
+      "valor": "69,99",
+      "descricao": "flores pamela",
+      "id": "XAEqsOf"
+    }
+  ]
+}
